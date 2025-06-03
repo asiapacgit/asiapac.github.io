@@ -1,0 +1,12 @@
+{
+    "name": "acf/list",
+    "title": "List",
+    "description": "List for industries",
+    "category": "asiapac",
+    "keywords": ["industries", "list"],
+    "viewScript": ["blocks/list"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block.php"
+    }
+}

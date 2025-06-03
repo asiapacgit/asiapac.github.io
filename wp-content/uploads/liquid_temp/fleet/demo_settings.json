@@ -1,0 +1,11 @@
+{
+	"home_page_title": "Home",
+	"menus": {
+		"primary": "Primary"
+	},
+	"content_plugins": {
+		"elementor": "Elementor",
+		"logistics-hub-core": "Logistics Hub Core",
+		"metform": "MetForm"
+	}
+}

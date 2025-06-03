@@ -1,0 +1,12 @@
+{
+    "name": "acf/heading",
+    "title": "Heading",
+    "description": "Heading for industries",
+    "category": "asiapac",
+    "keywords": ["industries", "heading"],
+    "viewScript": ["blocks/heading"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block.php"
+    }
+}
