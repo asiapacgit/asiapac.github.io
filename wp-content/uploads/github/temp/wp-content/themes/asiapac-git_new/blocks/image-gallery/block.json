@@ -1,0 +1,12 @@
+{
+    "name": "acf/image-gallery",
+    "title": "Image Gallery",
+    "description": "Image Gallery for industries",
+    "category": "asiapac",
+    "keywords": ["industries", "food", "list"],
+    "viewScript": ["blocks/image-gallery"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block.php"
+    }
+}

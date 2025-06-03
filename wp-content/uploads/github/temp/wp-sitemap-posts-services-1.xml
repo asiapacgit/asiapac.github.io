@@ -1,0 +1,107 @@
+<br />
+<b>Notice</b>:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in <b>/srv/http/wp-includes/functions.php</b> on line <b>6121</b><br />
+<br />
+<b>Deprecated</b>:  YahnisElsts\PluginUpdateChecker\v5p5\UpdateChecker::fixSupportedWordpressVersion(): Implicitly marking parameter $update as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/hostinger-easy-onboarding/vendor/yahnis-elsts/plugin-update-checker/Puc/v5p5/UpdateChecker.php</b> on line <b>462</b><br />
+<br />
+<b>Deprecated</b>:  YahnisElsts\PluginUpdateChecker\v5p5\StateStore::setUpdate(): Implicitly marking parameter $update as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/hostinger-easy-onboarding/vendor/yahnis-elsts/plugin-update-checker/Puc/v5p5/StateStore.php</b> on line <b>80</b><br />
+<br />
+<b>Deprecated</b>:  Hostinger\Admin\PluginSettings::__construct(): Implicitly marking parameter $plugin_options as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/hostinger/includes/Admin/PluginSettings.php</b> on line <b>27</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::extract_text(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>1622</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::file_get_contents(): Implicitly marking parameter $offset as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>1842</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::file_get_contents(): Implicitly marking parameter $max_length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>1842</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::getSupportInfo(): Implicitly marking parameter $key as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>2580</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::html_entity_decode(): Implicitly marking parameter $flags as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>3029</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::lcfirst(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>4301</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::lcwords(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>4365</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::ltrim(): Implicitly marking parameter $chars as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>4444</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::rtrim(): Implicitly marking parameter $chars as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>5625</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_camelize(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>5762</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_delimit(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>6022</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_replace(): Implicitly marking parameter $count as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>7678</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_slice(): Implicitly marking parameter $end as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>7913</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_titleize(): Implicitly marking parameter $ignore as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>8704</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_titleize(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>8704</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_titleize(): Implicitly marking parameter $word_define_chars as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>8704</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_to_lines(): Implicitly marking parameter $remove_short_values as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>9064</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_to_words(): Implicitly marking parameter $remove_short_values as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>9111</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::str_upper_camelize(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>9352</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strcspn(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>9515</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strip_tags(): Implicitly marking parameter $allowable_tags as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>9652</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strspn(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11118</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strtocasefold(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11348</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strtolower(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11403</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::strtoupper(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11483</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::substr(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11698</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::substr_compare(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11868</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::substr_count(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>11926</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::substr_count_in_byte(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>12018</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::substr_in_byte(): Implicitly marking parameter $length as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>12172</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::titlecase(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>12566</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::trim(): Implicitly marking parameter $chars as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>12984</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::ucfirst(): Implicitly marking parameter $lang as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>13030</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::wordwrap_per_line(): Implicitly marking parameter $delimiter as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>13496</b><br />
+<br />
+<b>Deprecated</b>:  voku\helper\UTF8::reduce_string_array(): Implicitly marking parameter $remove_short_values as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php</b> on line <b>13827</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\queue(): Implicitly marking parameter $assign as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>24</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\each(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>260</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\each(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>260</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\each_limit(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>285</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\each_limit(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>285</b><br />
+<br />
+<b>Deprecated</b>:  WP2StaticGuzzleHttp\Promise\each_limit_all(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/vendor/leonstafford/wp2staticpromises/src/functions.php</b> on line <b>307</b><br />
+<br />
+<b>Deprecated</b>:  WP2Static\Controller::deactivate(): Implicitly marking parameter $network_wide as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/src/Controller.php</b> on line <b>78</b><br />
+<br />
+<b>Deprecated</b>:  WP2Static\Controller::activate(): Implicitly marking parameter $network_wide as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/src/Controller.php</b> on line <b>115</b><br />
+<br />
+<b>Deprecated</b>:  WP2Static\Controller::wp2staticToggleAddon(): Implicitly marking parameter $addon_slug as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/src/Controller.php</b> on line <b>518</b><br />
+<br />
+<b>Deprecated</b>:  WP2Static\Controller::invalidateSingleURLCache(): Implicitly marking parameter $post as nullable is deprecated, the explicit nullable type must be used instead in <b>/srv/http/wp-content/plugins/wp2static/src/Controller.php</b> on line <b>728</b><br />
+<br />
+<b>Notice</b>:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>simply-static</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in <b>/srv/http/wp-includes/functions.php</b> on line <b>6121</b><br />
+<br />
+<b>Notice</b>:  Function add_theme_support( 'post-formats' ) was called <strong>incorrectly</strong>. You need to pass an array of post formats. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.6.0.) in <b>/srv/http/wp-includes/functions.php</b> on line <b>6121</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /srv/http/wp-content/plugins/simply-static/vendor/voku/portable-utf8/src/voku/helper/UTF8.php:5625) in <b>/srv/http/wp-includes/sitemaps/class-wp-sitemaps-renderer.php</b> on line <b>190</b><br />
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://example.com/wp-sitemap.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.com/services/procurement-consultant/</loc><lastmod>2025-02-27T17:57:27+00:00</lastmod></url><url><loc>https://example.com/services/sourcing-product-development/</loc><lastmod>2025-02-27T17:55:20+00:00</lastmod></url><url><loc>https://example.com/services/manufacturing/</loc><lastmod>2025-02-27T17:56:03+00:00</lastmod></url><url><loc>https://example.com/services/quality-control/</loc><lastmod>2025-02-27T17:56:23+00:00</lastmod></url><url><loc>https://example.com/services/freight-logistics/</loc><lastmod>2025-02-27T17:56:39+00:00</lastmod></url><url><loc>https://example.com/services/facilities-and-supplier-audit/</loc><lastmod>2025-02-27T17:55:46+00:00</lastmod></url><url><loc>https://example.com/services/warehouse-and-fulfillment/</loc><lastmod>2025-02-27T17:57:05+00:00</lastmod></url><url><loc>https://example.com/services/compliance-and-certifications/</loc><lastmod>2025-02-27T17:57:46+00:00</lastmod></url><url><loc>https://example.com/services/facility-and-product-tours/</loc><lastmod>2025-02-27T17:58:12+00:00</lastmod></url><url><loc>https://example.com/services/trade-show-and-fairs/</loc><lastmod>2025-02-27T17:58:21+00:00</lastmod></url><url><loc>https://example.com/services/dedicated-specialized-account-manager/</loc><lastmod>2025-02-27T17:58:59+00:00</lastmod></url><url><loc>https://example.com/services/door-to-door-full-turn-key-solutions-for-supply-chain-management/</loc><lastmod>2025-02-27T17:59:10+00:00</lastmod></url></urlset>

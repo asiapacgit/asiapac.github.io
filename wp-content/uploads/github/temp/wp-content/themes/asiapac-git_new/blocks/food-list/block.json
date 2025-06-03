@@ -1,0 +1,12 @@
+{
+    "name": "acf/food-list",
+    "title": "Food List",
+    "description": "Food List for industries",
+    "category": "asiapac",
+    "keywords": ["industries", "food", "list"],
+    "viewScript": ["blocks/food-list"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block.php"
+    }
+}

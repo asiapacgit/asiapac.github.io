@@ -1,0 +1,27 @@
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper services File ]
+-----------------------------------------------------------------*/
+
+/* == Bootstrap == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/bootstrap.min.css");
+
+/* == Owl.carousel == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/owl.carousel.min.css");
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/owl.theme.default.min.css");
+
+/* == Animate css == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/animate.min.css");
+
+/* == Icons (Flaticon, themify and fontawesome icons ==*/
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/flaticon.css");
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/themify-icons.css");
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/font-awesome-pro.css");
+
+/* == Magnific-popup gallery  == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/magnific-popup.css");
+
+/* == YouTubePopUp == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/YouTubePopUp.css");
+
+/* == Vegas Slider == */
+@import url("/wp-content/themes/asiapac-git_new/css/plugins/vegas.slider.min.css");

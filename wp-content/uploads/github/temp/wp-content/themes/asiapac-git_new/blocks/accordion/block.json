@@ -1,0 +1,12 @@
+{
+    "name": "acf/accordion",
+    "title": "Accordion",
+    "description": "Accordion for industries",
+    "category": "asiapac",
+    "keywords": ["accordion", "asiapac"],
+    "viewScript": ["blocks/accordion"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "block.php"
+    }
+}
