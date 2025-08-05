@@ -54,10 +54,10 @@ $(function () {
             logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', '/wp-content/themes/asiapac-git/img/logo.png');
+            logo.attr('src', '/asiapac.github.io/wp-content/themes/asiapac-git_new/img/logo.png');
         } else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', '/wp-content/themes/asiapac-git/img/logo_white.png');
+            logo.attr('src', '/asiapac.github.io/wp-content/themes/asiapac-git_new/img/logo_white.png');
         }
     });
    
